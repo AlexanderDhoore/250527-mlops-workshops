@@ -10,3 +10,7 @@ This is part of the TETRA MLOps4ECM project. See the website: [https://mlops4ecm
 ### Building ML Infrastructure
 
 * [ml-infrastructure/](ml-infrastructure/): Day 2 of the workshops
+
+### Edge AI Deployment
+
+* [edge-deployment/](edge-deployment/): Day 3 of the workshops
